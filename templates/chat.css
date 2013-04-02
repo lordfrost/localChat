@@ -1,9 +1,10 @@
 .header {
     width: 80%;
-    border: solid 1px black;
-    border-radius: 0 0px 10px 10px;
+    border: solid 1px white;
+    border-top-color: #00FF00;
+    border-radius: 0 0 12px 12px;
     background-color: #00FF00;
-    height: 20px;
+    height: 29px;
     position: absolute;
     left: 10%;
     top: 0px;
